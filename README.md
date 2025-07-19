@@ -1,2 +1,2 @@
-# blood-donor
-A blood donor is a healthy person who voluntarily gives blood to help patients in need, such as during surgeries, accidents, or for illnesses like anemia. Donated blood saves lives and supports medical treatments. One donation can help up to three people and is a simple, safe, and noble act.
+# protfolio
+This is a personal portfolio webpage for Prakashraj, built with HTML and inline CSS. It features sections for Home, About, Skills, Projects, and Contact, with a clean layout, responsive header navigation, profile picture, skill badges, project cards, and contact details styled simply.
